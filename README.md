@@ -9,4 +9,8 @@ Sample website with plenty of files for demos
 ## Deployment
 njjjjjjjjjjjjjjjjjjjj
 
+<<<<<<< HEAD
 ###copyright dscv
+=======
+###copyrightdvfgdsg
+>>>>>>> add-copyright

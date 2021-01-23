@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jaswinder @gmail
 
 # THANKS
 
