@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+<<<<<<< HEAD
 ###copyright dscv
+=======
+###copyrightdvfgdsg
+>>>>>>> add-copyright
